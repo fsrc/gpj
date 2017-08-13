@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+require("livescript")
+require('../lib/cli')
+

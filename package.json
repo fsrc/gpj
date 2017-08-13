@@ -1,0 +1,29 @@
+{
+  "name": "gpj",
+  "version": "1.0.0",
+  "description": "Joins GoPro clips into one big",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsrc/gpj.git"
+  },
+  "keywords": [
+    "gopro",
+    "mp4"
+  ],
+  "author": "Fredrik Andersson",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/fsrc/gpj/issues"
+  },
+  "homepage": "https://github.com/fsrc/gpj#readme",
+  "dependencies": {
+    "async-ls": "0.0.3",
+    "livescript": "^1.5.0",
+    "moments": "0.0.2",
+    "prelude-ls": "^1.1.2"
+  }
+}
