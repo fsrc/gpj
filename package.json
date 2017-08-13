@@ -1,6 +1,6 @@
 {
   "name": "gpj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Joins GoPro clips into one big",
   "main": "index.js",
   "scripts": {
